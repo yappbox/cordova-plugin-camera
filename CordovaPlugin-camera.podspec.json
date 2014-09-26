@@ -1,6 +1,6 @@
 {
   "name": "CordovaPlugin-camera",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "summary": "Mirror of Apache Cordova Plugin camera",
   "description": "A longer description of CordovaPlugin-camera in Markdown format.",
   "homepage": "https://github.com/apache/cordova-plugin-camera",
